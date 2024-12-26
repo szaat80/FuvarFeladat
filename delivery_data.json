@@ -1,0 +1,21 @@
+{"date": "2024-12-23", "km_range": "\u00d6vezet 0-5", "address": "valami", "delivery_number": "11111111", "m3": 8}
+{"date": "2024-12-23", "km_range": "\u00d6vezet 0-5", "address": "dd", "delivery_number": "222", "m3": 8}
+{"date": "2024-12-23", "km_range": "\u00d6vezet 15-20", "address": "dd", "delivery_number": "222", "m3": 8}
+{"date": "2024-12-23", "km_range": "\u00d6vezet 0-5", "address": "fgn", "delivery_number": "1111", "m3": 8}
+{"date": "2024-12-23", "km_range": "\u00d6vezet 0-5", "address": "fgn", "delivery_number": "1111", "m3": 7}
+{"date": "2024-12-23", "km_range": "\u00d6vezet 0-5", "address": "", "delivery_number": "", "m3": 8}
+{"date": "2024-12-23", "km_range": "\u00d6vezet 0-5", "address": "", "delivery_number": "", "m3": 7}
+{"date": "2024-12-23", "km_range": "\u00d6vezet 0-5", "address": "", "delivery_number": "", "m3": 55}
+{"date": "2024-12-23", "km_range": "\u00d6vezet 0-5", "address": "", "delivery_number": "", "m3": 55}
+{"date": "2024-12-23", "km_range": "\u00d6vezet 0-5", "address": "", "delivery_number": "", "m3": 4}
+{"date": "2024-12-24", "km_range": "Övezet 0-5", "address": "catl", "delivery_number": "1111", "m3_values": []}
+{"date": "2024-12-24", "km_range": "Övezet 0-5", "address": "catl", "delivery_number": "1111", "m3_values": []}
+{"date": "2024-12-24", "km_range": "Övezet 0-5", "address": "catl", "delivery_number": "1111", "m3_values": []}
+{"date": "2024-12-24", "km_range": "Övezet 0-5", "address": "", "delivery_number": "", "m3_values": []}
+{"date": "2024-12-24", "km_range": "Övezet 0-5", "address": "", "delivery_number": "", "m3_values": [5.0, 6.0, 5.5, 8.0]}
+{"date": "2024-12-24", "km_range": "Övezet 5-10", "address": "", "delivery_number": "", "m3_values": [5.0, 6.0, 7.0, 6.0, 6.0, 8.0]}
+{"date": "2024-12-24", "km_range": "Övezet 10-15", "address": "catl", "delivery_number": "11", "m3_values": [8.0]}
+{"date": "2024-12-26", "km_range": "Övezet 0-5", "factory": "Uni City", "address": "", "delivery_number": "", "m3_values": []}
+{"date": "2024-12-26", "km_range": "Övezet 0-5", "factory": "Uni City", "address": "", "delivery_number": "", "m3_values": []}
+{"date": "2024-12-26", "km_range": "Övezet 0-5", "factory": "Uni City", "address": "", "delivery_number": "", "m3_values": [6.0]}
+{"date": "2024-12-26", "km_range": "Övezet 0-5", "factory": "Uni City", "address": "", "delivery_number": "", "m3_values": []}
